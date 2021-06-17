@@ -26,8 +26,8 @@
 			<version>3.1.0</version>
 		</dependency>
 
-		<!-- This is how we can convert objects TO and FROM JSON this is called 
-			object marshalling -->
+		<!-- This is how we can convert objects TO and FROM JSON 
+		this is called object marshalling -->
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
